@@ -1,1 +1,1 @@
-# Classification-Of-MNIST-Dataset-Using-NeuralNetworks-
+# Classification Of MNIST Dataset Using NeuralNetworks 
